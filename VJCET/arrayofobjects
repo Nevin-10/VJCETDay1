@@ -1,0 +1,23 @@
+let classofstud = [
+    {
+         Name:"Nevin",
+         Age:20,
+         Place:"Muvattupuzha"
+
+    },
+    {
+        Name:"Lexii",
+        Age:20,
+        Place:"Asia"
+        
+
+    },
+    {
+        Name:"Jatin",
+        Age:20,
+        Place:"Kizhakel"
+
+    }
+];
+
+console.log(classofstud[2].Name)

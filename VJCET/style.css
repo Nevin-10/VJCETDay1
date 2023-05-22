@@ -1,0 +1,90 @@
+body,html{
+    background:lightcyan;
+    background-size: cover;
+    
+}
+
+
+
+
+
+
+
+p{
+
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:aquamarine;
+
+}
+
+h3{
+
+    color:brown;
+
+
+
+}
+
+.External
+{
+    color:red;
+    text-decoration:underline;
+
+}
+
+#change
+{
+    color:darkorange;
+}
+.mhem h3
+{
+  
+    color:black;
+}
+
+
+/* .margin{ 
+    
+
+    
+    
+    border:2px solid red;
+     padding-left:40%; 
+    margin-top:10%
+
+    
+}
+*/
+
+.login
+{
+    border:3px dashed lightgoldenrodyellow;
+    padding: 20px;
+    background-color: lightcoral;
+    cursor: pointer;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container
+{
+    text-align: center;
+    
+}
+
+li
+{
+    list-style: none;
+}
